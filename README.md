@@ -243,12 +243,12 @@ Enterprise automation & service modernization with ServiceNow + UiPath.
 
 ### 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsingh-tpm&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakshak0000&theme=default&hide_border=true)
 
 ---
 
 *"Turning ambiguity into shipped outcomes — one release at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohitsingh-tpm&color=2da44e&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=rakshak0000&color=2da44e&style=flat-square&label=Profile+Views)
 
 </div>
